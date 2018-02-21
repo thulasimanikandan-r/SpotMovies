@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="title_movie_details">Movie Details</string>
+    <string name="popular_menu">Most Popular</string>
+    <string name="top_rated_menu">Highest Rated</string>
+    <string name="image_content_description">Movie Image</string>
+    <string name="tv_release_date">Release Date</string>
+    <string name="tv_ratings">User Ratings</string>
+
+    <string name="network_error">Network Error. Please try again later</string>
+
+</resources>
